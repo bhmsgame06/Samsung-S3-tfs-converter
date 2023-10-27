@@ -16,7 +16,7 @@ C:/Program Files/S3-tfs/ext (converted TFS/CSC files)
 C:/Program Files/S3-tfs/tfs (all TFS/CSC files)
 ```
 
-Move the firmware file to the "tfs" folder, and for example it will be a file named "CSC_C3010OXEII1.csc".
+Move the firmware file to the "tfs" directory, and for example it will be a file named "CSC_C3010OXEII1.csc".
 
 Afterwards, run the program with the following command line arguments:
 ```
